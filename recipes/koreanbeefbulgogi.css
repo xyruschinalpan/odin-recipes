@@ -1,0 +1,18 @@
+.Title.Heading {
+    font-size: 50px;
+    font-family: "Lucida Handwriting", serif ;
+    color: orange;
+}
+
+.Heading {
+    font-size: large;
+    color: purple;
+}
+
+* {
+    font-family: "Times New Roman", serif;
+}
+
+.beefimg {
+    border: 5px solid lightsalmon;
+}

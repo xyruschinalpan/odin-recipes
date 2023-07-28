@@ -1,0 +1,16 @@
+#title {
+    font-size: 50px;
+    font-family: "Lucida Handwriting", serif ;
+    font-weight: bolder;
+    color: lightsalmon;
+}
+
+.link {
+    color: purple;
+    font-family: "Times New Romna", serif;
+    font-size: medium;
+}
+
+.image {
+    border: 5px solid purple;
+}
